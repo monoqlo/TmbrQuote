@@ -10,29 +10,29 @@
 	<string>TmbrQuote</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5EA6E752-E152-42F4-ACFA-433680F28E5C</key>
+		<key>648B0588989A0C493C3543278C5E96A8A6B8F6BC</key>
 		<string>https://github.com/monoqlo/TmbrQuote.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TmbrQuote.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5EA6E752-E152-42F4-ACFA-433680F28E5C</key>
+		<key>648B0588989A0C493C3543278C5E96A8A6B8F6BC</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/monoqlo/TmbrQuote.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5EA6E752-E152-42F4-ACFA-433680F28E5C</string>
+	<string>648B0588989A0C493C3543278C5E96A8A6B8F6BC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5EA6E752-E152-42F4-ACFA-433680F28E5C</string>
+			<string>648B0588989A0C493C3543278C5E96A8A6B8F6BC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TmbrQuote</string>
 		</dict>

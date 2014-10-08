@@ -1,32 +1,29 @@
 PODS:
   - JXHTTP (1.0.0)
-  - NSData+Base64 (1.0.0)
-  - SSKeychain (1.2.0)
-  - TMTumblrSDK (1.0.4):
+  - SSKeychain (1.2.2)
+  - TMTumblrSDK (1.0.8):
     - TMTumblrSDK/Activity
     - TMTumblrSDK/APIClient
     - TMTumblrSDK/AppClient
     - TMTumblrSDK/Core
-  - TMTumblrSDK/Activity (1.0.4)
-  - TMTumblrSDK/APIClient (1.0.4):
+  - TMTumblrSDK/Activity (1.0.8)
+  - TMTumblrSDK/APIClient (1.0.8):
     - JXHTTP (= 1.0.0)
     - TMTumblrSDK/APIClient/Authentication
-  - TMTumblrSDK/APIClient/Authentication (1.0.4):
+  - TMTumblrSDK/APIClient/Authentication (1.0.8):
     - JXHTTP (= 1.0.0)
-    - NSData+Base64 (= 1.0)
     - TMTumblrSDK/Core
-  - TMTumblrSDK/AppClient (1.0.4):
+  - TMTumblrSDK/AppClient (1.0.8):
     - TMTumblrSDK/Core
-  - TMTumblrSDK/Core (1.0.4)
+  - TMTumblrSDK/Core (1.0.8)
 
 DEPENDENCIES:
   - SSKeychain (~> 1.2.0)
   - TMTumblrSDK (~> 1.0.4)
 
 SPEC CHECKSUMS:
-  JXHTTP: 04f027e55c252d206cf3fcc2a2bde3914a35d842
-  NSData+Base64: 4819562faee4544e3cf5703f2139820b09732b28
-  SSKeychain: 2fe90c92034129d9615a508529b601a520f297d1
-  TMTumblrSDK: 1a175f7d6f9403874d86fac045c7b55fabb79389
+  JXHTTP: dd1fe9c6fa21e7b2be9724ef2be16c66aafc44b4
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+  TMTumblrSDK: b9fada23e88b42ade2b492a6db95bfb1dff6304b
 
-COCOAPODS: 0.27.1
+COCOAPODS: 0.33.1
